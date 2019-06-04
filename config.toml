@@ -1,7 +1,2 @@
-baseURL = ""
-languageCode = "en-us"
-title = "AWS Lambda - Serverless"
-theme = "ananke"
-
 [params.lambdaComments]
-endpoint = "http://the-url-to-our-lambda-API-Gateway"
+endpoint = "https://4mncp4bcp4.execute-api.us-east-2.amazonaws.com/default/student54-comments-post"
