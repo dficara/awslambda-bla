@@ -1,2 +1,2 @@
 [params.lambdaComments]
-endpoint = "https://4mncp4bcp4.execute-api.us-east-2.amazonaws.com/default/student54-comments-post"
+endpoint = "https://4mncp4bcp4.execute-api.us-east-2.amazonaws.com/default/student54-comments-post" 
